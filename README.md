@@ -13,7 +13,6 @@
 ### **1️⃣ Клонирование репозитория**
 ```sh
 git clone https://github.com/AlinaMoroz/excel-max-finder.git
-cd excel-max-finder
 ```
 
 ### **2️⃣ Добавление файлов для тестирования**
