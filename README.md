@@ -12,7 +12,7 @@
 
 ### **1️⃣ Клонирование репозитория**
 ```sh
-git clone https://github.com/AlinaMoroz/spring-excel-max-finder.git
+git clone https://github.com/AlinaMoroz/excel-max-finder.git
 cd excel-max-finder
 ```
 
